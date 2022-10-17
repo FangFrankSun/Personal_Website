@@ -8,7 +8,9 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+a senior student double majoring in [Architecture](https://www.arch.virginia.edu) and [Computer Science](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us) at the [University of Virginia](https://www.virginia.edu) (joined August 2019). I love both tracks and hope to design smart architecture in the near future as my major career goal. 
+  
+I am also a chess national master with uscf rating 2359, and I have my own firm called [Hummer Education](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills. And now we started to do software development courses as well, with online tutorials in Chinese for most of them.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
