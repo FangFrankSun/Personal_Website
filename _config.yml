@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : fsun
 description         : >-
-                      I turn coffee :coffee: into hh,
-                      use tabs over spaces
-                      and never broke production.
+                      Hi, I am Frank.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : FangFrankSun/test10     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -25,7 +23,7 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Frank Sun
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
