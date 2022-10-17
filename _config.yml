@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : fsun
+title               : Fang (Frank) Sun
 description         : >-
                       Hi, I am Frank.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -24,17 +24,17 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Frank Sun
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  image             : /image/profile.png
+#behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : fs3unu@virginia.edu
+ # facebook          : your_username
+  github            : FangFrankSun
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : your_username
-  medium            : your_username
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
