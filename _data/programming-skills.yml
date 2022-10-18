@@ -1,0 +1,24 @@
+- name: Python
+  percentage: 100
+  level : Advanced
+  color:
+
+- name: SQL
+  percentage: 70
+  level : Intermediate
+  color:
+
+- name: HTML/CSS
+  percentage: 70
+  level : Intermediate
+  color:
+
+- name: C/C++
+  percentage: 50
+  level : Basics
+  color:
+
+- name: R
+  percentage: 40
+  level : Basics
+  color:
