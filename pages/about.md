@@ -42,7 +42,7 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
     {% endfor %}
  -->
 
-  </div>
+  
   <p class="text-center">
    {% include elements/button.html link="/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf" text='<i class="far fa-file-pdf  fa-1x align-self-center"></i> Resume' %}
    {% include elements/button.html link="#my-tech-stack" text='My Tech Stack' %}
@@ -50,7 +50,6 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
    {% include elements/button.html link="#work-experience" text='Work Experience' %}
    {% include elements/button.html link="#education" text='Education' %}
   </p>
-</div>
 
 ## My Tech Stack
 ##### Programming languages
