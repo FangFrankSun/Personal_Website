@@ -40,6 +40,7 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
       {%- endif -%}
     
     {% endfor %}
+ -->
 
   </div>
   <p class="text-center">
@@ -49,7 +50,7 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
    {% include elements/button.html link="#work-experience" text='Work Experience' %}
    {% include elements/button.html link="#education" text='Education' %}
   </p>
-</div> -->
+</div>
 
 ## My Tech Stack
 ##### Programming languages
@@ -61,16 +62,16 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a> -->
 
 
-## Work Experience
-<div class="row">
-  {% include about/timeline.html source=site.data.experiences-timeline %}
-</div>
-
 ## Education
 <div class="row">
   {% include about/timeline.html source=site.data.education-timeline %}
 </div>
 
+
+## Work Experience
+<div class="row">
+  {% include about/timeline.html source=site.data.experiences-timeline %}
+</div>
 
 
 
