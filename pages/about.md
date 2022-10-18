@@ -12,7 +12,7 @@ a senior student double majoring in [Architecture](https://www.arch.virginia.edu
   
 I am also a chess national master with uscf rating 2359, and I have my own firm called [Hummer Education](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills. And now we started to do software development courses as well, with online tutorials in Chinese for most of them.
 
-<div id="container">
+<!-- <div id="container">
   <p class="text-center">
     <h1><strong>About Me</strong></h1>
   </p>
@@ -49,7 +49,7 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
    {% include elements/button.html link="#work-experience" text='Work Experience' %}
    {% include elements/button.html link="#education" text='Education' %}
   </p>
-</div>
+</div> -->
 
 ## My Tech Stack
 ##### Programming languages
