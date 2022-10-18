@@ -5,3 +5,9 @@
 - name: Adobe Illustrator
   percentage: 90
   color: success
+  
+  
+- name: Adobe Indesign
+  percentage: 95
+  color: warning
+  
