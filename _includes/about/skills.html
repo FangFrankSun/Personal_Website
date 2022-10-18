@@ -1,27 +1,3 @@
-<div class="col-lg">
-  {% if include.title %}
-    <h2 class="mb-3">{{ include.title }}</h2>
-  {% endif %}
-  {% for skill in include.source %}
-    <div class="skill">
-      <p>{{ skill.name }}</p>
-      <div class="skill-bar skill-bar-{{ skill.color }} skill-{{ skill.percentage }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
-        <span>{{ skill.level }}</span>
-      </div>
-    </div>
-  {% endfor %}
-</div>
-
-
-
-
-
-
-
-
-
-
-<!-- 
 
 <div class="col-lg">
 
@@ -52,4 +28,4 @@
   {% endfor %}
 
 </div>
- -->
+
