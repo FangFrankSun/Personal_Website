@@ -24,6 +24,11 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
   {% include about/timeline.html source=site.data.experience-timeline %}
 </div>
 
+## Education
+<div class="row">
+  {% include about/timeline.html source=site.data.education-timeline %}
+</div>
+
 <!-- <div class="row">
 {% include about/timeline.html %}
 </div> -->
