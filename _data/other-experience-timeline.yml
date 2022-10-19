@@ -1,5 +1,5 @@
 
-- entity: ETCP Co., Ltd.
+- entity: "ETCP Co., Ltd."
   link : https://www.etcp.cn
   location: Beijing
   country: China
@@ -14,7 +14,7 @@
     - "Applied and received the national patent (201721325329.0)."
   tools: [Python, Java, C++, git, php, JavaScript]
 
-- entity: LittleHummerChess Team
+- entity: "LittleHummerChess Team"
   link : https://www.littlehummerchess.club
   location: Shanghai
   country: China
