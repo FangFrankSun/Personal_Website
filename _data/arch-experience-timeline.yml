@@ -12,38 +12,45 @@
     - "Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms."
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
 
-- entity: Airbus Commercial Aircraft
-  link : https://www.airbus.com/
-  location: Toulouse, France
-  country: France
-  role: Data Scientist
-  from: Sep. 2018
-  to: Aug. 2021
+- entity: HDR Inc.
+  link : https://www.hdrinc.com/
+  location: Arlington, VA
+  country: USA
+  role: Design Intern
+  from: 12/2021
+  to: 01/2022
+  description: x
+  courses:
+    - "Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS."
+    - "Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper."
+    - "Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes."
+  tools: [Rhinoceros, SketchUp, Revit, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator]
+
+- entity: AZL Architects in Southeast University
+  link : https://www.archdaily.com/office/azl-architects
+  location: Nanjing, Jiangsu
+  country: China
+  role: Design Intern
+  from: 01/2021
+  to: 03/2021
+  description: x
+  courses:
+    - "Helped Professor Zhang Lei categorize drawings and diagrams about Ruralation Museum Hotel for media."
+    - "Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros."
+  tools: [ArcGIS, Rhinoceros, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator]
+
+- entity: MAD Architects
+  link : https://www.hdrinc.com/
+  location: Beijing
+  country: China
+  role: Assistant Architect
+  from: 07/2020
+  to: 12/2020
   description: 3-year apprenticeship within the acoustics department.
   courses:
-    - "Anomaly detection: in flight recordings to detect noise pollution and to automatize the cleaning, reducing costs and time required by >90%."
-    - "Data analysis: trend monitoring of production quality and root cause analysis of identified drifts ; identification of contributors to specific aircraft noise variability."
-    - "Clustering: of flight trajectories from high-dimensional data, to generate accurate noise maps based on real-world data and ease simulation."
-    - "Optimization of blade design: improved noise level while preserving efficiency, using genetic algorithms and surrogate modeling (deep learning)."
-  tools: [Python, pandas, scikit-learn, keras, XGBoost, librosa, scipy, pymoo, git]
+    - "Worked with Dang Qun and Ma Yansong, helped developed the circular circulation for the in-process project Jiaxing Civic Center, and finished the east wing first and second floor sections and image rendering."
+    - "Assisted design and produced technical drawings for the public courtyard and nearby urban context in the project Pingtan Art Museum, edited multiple proposals and updated the second version project BIM Model."
+    - "Helped improve the UI design for the firm website, i-mad.com, proposed the menu tab to be set on the left side of the page, leaving the entire default webpage area for the project image."
+  tools: [Rhinoceros, Grasshopper, AutoCAD, Lumion, Photoshop, Html, CSS, JavaScript, Python]
 
 
-
-
-# - title: Student, Harvard CS
-#   from: 2014
-#   to: 2018
-#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-# - title: Software Engineer, Google, UK
-#   from: 2018
-#   to: present
-#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
