@@ -14,10 +14,10 @@ open_new_tab        : false                             # Opens external URLs in
 
 
 links               :
- # - "/projects : Projects"
-#  - "/blog : Blog"
-  #- "/about-me : About Me"
- # - "/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf : Resume"
+  - "/projects : Projects"
+  - "/blog : Blog"
+  - "/about-me : About Me"
+  - "/assets/resume/CV_EN_Hugo_Le_Moine_EEO.pdf : Resume"
   
 
 ### Plugins ###
