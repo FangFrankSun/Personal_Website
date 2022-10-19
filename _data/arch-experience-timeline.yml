@@ -1,16 +1,13 @@
-- entity: Perkins&Will
-  link : https://perkinswill.com
-  location: Washington D.C.
-  country: USA
-  role: Design Intern
-  from: May 2022
-  to: Sept 2022
-  description: 3-month internship for project drawing, modeling assistance and self parametric design
+- entity: Pierre Fabre Group
+  link : https://www.pierre-fabre.com
+  location: Lavaur, France
+  country: France
+  role: Data Scientist
+  from: Sep 2021
+  to: present
+  description: Full-time data scientist within the CoE Data.
   courses:
-    - "Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit."
-    - "Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images."
-    - "Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms."
-  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
-
-
-
+    - "Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy."
+    - "NLP applied to clinical trials: automation of chemgenomics database crossing, accelerating experts’ screening"
+    - "Organizational effectiveness: graph theory applied to interactions, to monitor the company’s transformation."
+  tools: [Python, pandas, spacy, XGBoost, dash, API, pytest, Kubeflow, Snowflake, git]
