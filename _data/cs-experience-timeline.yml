@@ -25,18 +25,7 @@
     - "Provided coding support for SaaS customers from other companies using JavaScript and Postman."
   tools: [Python, Java, Webhook, scipy, pymoo, git, JavaScript, API]
 
-- entity: Roboticplus AI
-  link : https://www.roboticplus.com
-  location: Shanghai, China
-  country: China
-  role: "Project Assistant"
-  from: 05/2020
-  to: 08/2020
-  description: 3-month project assistant for two robotic projects.
-  courses:
-    - "Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software."
-    - "Assisted in the development of robot arms with C++, Java languages and programed their movements."
-  tools: [C, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
+
   
   - entity: Apple Inc.
   link : https://apple.com
