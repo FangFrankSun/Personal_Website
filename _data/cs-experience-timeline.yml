@@ -5,7 +5,7 @@
   role: Java Developer Intern
   from: 06-2021
   to: 09/2021
-  description: 3 months Java intern
+  description: 3 months Java intern for IoT Business in Alibaba
   courses:
     - "Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun."
     - "Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services."
@@ -18,10 +18,11 @@
   role: Lark Frontend Intern
   from: 03/2021
   to: 06/2021
-  description: x
+  description: 3 month frontend intern for SaaS projects
   courses:
     - "Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs)."
     - "Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users."
+    - "Provided coding support for SaaS customers from other companies using JavaScript and Postman."
   tools: [Python, Java, Webhook, scipy, pymoo, git, JavaScript, API]
 
 - entity: Roboticplus.AI,
@@ -31,7 +32,7 @@
   role: Project Assistant
   from: 05/2020
   to: 08/2020
-  description: x
+  description: 3 month project assistant for two robotic projects
   courses:
     - "Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software."
     - "Assisted in the development of robot arms with C++, Java languages and programed their movements."
@@ -44,7 +45,7 @@
   role: System Test Design Lead
   from: 10/2017
   to: 03/2018
-  description: x
+  description: six month test lead for apple API testing, database testing
   courses:
     - "Attended iOS Developer Program, reviewing system functionality with data collection and API testing."
     - "Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts."
