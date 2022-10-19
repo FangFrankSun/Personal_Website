@@ -10,6 +10,6 @@
   courses:
     - "Computer Science — Software Development (java), Data Structure (C++), Computer Architecture, Artifical Intelligence"
     - "Architecture — Foundation Design Studios I-V, Architecture History I-III, Data Visualization, Urban Planning Studio (UDC)"
-  tools: [Python, C++, java, R, SQL,Assembly, git, Rhinoceros, AutoCAD, SketchUp, Revit, Grasshopper, Enscape, Vray, Blender]
+  tools: [Python, C++, java, R, SQL,Assembly, git, Rhinoceros, SketchUp, AutoCAD, Revit, Grasshopper, Enscape, Vray, Blender]
 
 
