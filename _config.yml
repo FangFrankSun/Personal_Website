@@ -21,7 +21,6 @@ links               :
   
 
 ### Plugins ###
-theme: portfolyou-jekyll-theme
 plugins:
   - jekyll-feed
   - jemoji
