@@ -1,49 +1,51 @@
-- entity: Pierre Fabre Group
-  link : https://www.pierre-fabre.com
-  location: Lavaur, France
-  country: France
-  role: Data Scientist
-  from: Sep 2021
-  to: present
-  description: Full-time data scientist within the CoE Data.
+- entity: Alibaba Group Holding Limited
+  link : https://www.alibabagroup.com/en-US/
+  location: Hangzhou, Zhejiang
+  country: China
+  role: Java Developer Intern
+  from: 06-2021
+  to: 09/2021
+  description: 3 months Java intern
   courses:
-    - "Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy."
-    - "NLP applied to clinical trials: automation of chemgenomics database crossing, accelerating experts’ screening"
-    - "Organizational effectiveness: graph theory applied to interactions, to monitor the company’s transformation."
-  tools: [Python, pandas, spacy, XGBoost, dash, API, pytest, Kubeflow, Snowflake, git]
+    - "Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun."
+    - "Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services."
+  tools: [Python, Java, Springboot, git, IoT, Assembly]
 
-- entity: Airbus Commercial Aircraft
-  link : https://www.airbus.com/
-  location: Toulouse, France
-  country: France
-  role: Data Scientist
-  from: Sep. 2018
-  to: Aug. 2021
-  description: 3-year apprenticeship within the acoustics department.
+- entity: Beijing ByteDance Technology Co., Ltd
+  link : https://www.bytedance.com/en/
+  location: Shanghai
+  country: China
+  role: Lark Frontend Intern
+  from: 03/2021
+  to: 06/2021
+  description: x
   courses:
-    - "Anomaly detection: in flight recordings to detect noise pollution and to automatize the cleaning, reducing costs and time required by >90%."
-    - "Data analysis: trend monitoring of production quality and root cause analysis of identified drifts ; identification of contributors to specific aircraft noise variability."
-    - "Clustering: of flight trajectories from high-dimensional data, to generate accurate noise maps based on real-world data and ease simulation."
-    - "Optimization of blade design: improved noise level while preserving efficiency, using genetic algorithms and surrogate modeling (deep learning)."
-  tools: [Python, pandas, scikit-learn, keras, XGBoost, librosa, scipy, pymoo, git]
+    - "Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs)."
+    - "Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users."
+  tools: [Python, Java, Webhook, scipy, pymoo, git, JavaScript, API]
 
-
-
-
-# - title: Student, Harvard CS
-#   from: 2014
-#   to: 2018
-#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-# - title: Software Engineer, Google, UK
-#   from: 2018
-#   to: present
-#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-#                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-#                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- entity: Roboticplus.AI,
+  link : https://www.roboticplus.com
+  location: Shanghai
+  country: China
+  role: Project Assistant
+  from: 05/2020
+  to: 08/2020
+  description: x
+  courses:
+    - "Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software."
+    - "Assisted in the development of robot arms with C++, Java languages and programed their movements."
+  tools: [C, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
+  
+  - entity: Apple Inc.
+  link : https://apple.com
+  location: Shanghai
+  country: China
+  role: System Test Design Lead
+  from: 10/2017
+  to: 03/2018
+  description: x
+  courses:
+    - "Attended iOS Developer Program, reviewing system functionality with data collection and API testing."
+    - "Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts."
+  tools: [Python, Java, JavaScript, Ruby, C#]
