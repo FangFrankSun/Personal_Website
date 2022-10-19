@@ -1,4 +1,4 @@
-- entity: Perkins&Will
+- entity: "Perkins&Will"
   link : https://perkinswill.com
   location: Washington D.C.
   country: USA
@@ -12,7 +12,7 @@
     - "Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms."
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
-- entity: HDR Inc.
+- entity: "HDR Inc."
   link : https://www.hdrinc.com/
   location: Arlington, VA
   country: USA
@@ -26,7 +26,7 @@
     - "Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes."
   tools: [Rhinoceros, SketchUp, Revit, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator]
 
-- entity: AZL Architects in Southeast University
+- entity: "AZL Architects in Southeast University"
   link : https://www.archdaily.com/office/azl-architects
   location: Nanjing, Jiangsu
   country: China
@@ -39,7 +39,7 @@
     - "Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros."
   tools: [ArcGIS, Rhinoceros, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator]
 
-- entity: MAD Architects
+- entity: "MAD Architects"
   link : https://www.hdrinc.com/
   location: Beijing
   country: China
