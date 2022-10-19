@@ -1,6 +1,6 @@
 - entity: Alibaba Group Holding Limited
   link : https://www.alibabagroup.com/en-US/
-  location: Hangzhou, Zhejiang
+  location: Hangzhou, China
   country: China
   role: Java Developer Intern
   from: 06/2021
@@ -13,7 +13,7 @@
 
 - entity: Beijing ByteDance Technology Co., Ltd
   link : https://www.bytedance.com/en/
-  location: Shanghai
+  location: Shanghai, China
   country: China
   role: Lark Frontend Intern
   from: 03/2021
@@ -27,7 +27,7 @@
 
 - entity: Roboticplus.AI,
   link : https://www.roboticplus.com
-  location: Shanghai
+  location: Shanghai, China
   country: China
   role: Project Assistant
   from: 05/2020
@@ -40,7 +40,7 @@
   
   - entity: Apple Inc.
   link : https://apple.com
-  location: Shanghai
+  location: Shanghai, China
   country: China
   role: System Test Design Lead
   from: 10/2017
