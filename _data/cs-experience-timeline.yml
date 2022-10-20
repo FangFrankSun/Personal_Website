@@ -26,16 +26,16 @@
   tools: [Python, Java, Webhook, scipy, pymoo, git, JavaScript, API]
 
   
-  - entity: "Apple Inc."
-  link : https://apple.com
+  
+- entity: "Roboticplus AI"
+  link : https://www.roboticplus.com
   location: Shanghai, China
   country: China
-  role: "System Test Design Lead"
-  from: 10/2017
-  to: 03/2018
-  description: 6-month test lead for apple API testing, database testing.
+  role: "Project Assistant"
+  from: 05/2020
+  to: 08/2020
+  description: 3-month project assistant for two robotic projects.
   courses:
-    - "Attended iOS Developer Program, reviewing system functionality with data collection and API testing."
-    - "Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts."
-  tools: [Python, Java, JavaScript, Ruby, C#]
-  
+    - "Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software."
+    - "Assisted in the development of robot arms with C++, Java languages and programed their movements."
+  tools: [C, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
