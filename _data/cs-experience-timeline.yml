@@ -39,3 +39,17 @@
     - "Assisted in the development of robot arms with C++, Java languages and programed their movements."
   tools: [C, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
   
+  
+  - entity: "Apple Inc."
+  link : https://apple.com
+  location: Shanghai, China
+  country: China
+  role: "System Test Design Lead"
+  from: 10/2017
+  to: 03/2018
+  description: 6-month test lead for apple API testing, database testing.
+  courses:
+    - "Attended iOS Developer Program, reviewing system functionality with data collection and API testing."
+    - "Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts."
+  tools: [Python, Java, JavaScript, Ruby, C#]
+  
