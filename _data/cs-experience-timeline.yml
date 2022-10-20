@@ -1,0 +1,54 @@
+- entity: "Perkins&Will"
+  link : https://perkinswill.com
+  location: Washington D.C.
+  country: USA
+  role: Design Intern
+  from: May 2022
+  to: Sept 2022
+  description: 3-month internship for project drawing, modeling assistance and self parametric design
+  courses:
+    - "Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit."
+    - "Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images."
+    - "Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms."
+  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  
+- entity: "HDR Inc."
+  link : https://www.hdrinc.com/
+  location: Arlington, VA
+  country: USA
+  role: "Design Intern"
+  from: 12/2021
+  to: 01/2022
+  description: 1-month internship for project modeling and documenting assistance 
+  courses:
+    - "Helped to draw analysis diagrams and recreate unit models for a children's hospital, using AutoCAD, BIM, Rhino and PS."
+    - "Self designed and developed a series of iterations of facade for the project in the schematic design process with grasshopper."
+    - "Self created new grasshopper plugin written in Python to help future HDR designers using the grasshopper templates to generate parametric forms, specially using curves and round shapes."
+  tools: [Rhinoceros, SketchUp, Revit, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator]
+
+- entity: "AZL Architects in Southeast University"
+  link : https://www.archdaily.com/office/azl-architects
+  location: Nanjing, Jiangsu
+  country: China
+  role: "Research Assistant"
+  from: 01/2021
+  to: 03/2021
+  description: 3-month Assistant for documentation, redesign, remaping and remodeling.
+  courses:
+    - "Helped Professor Zhang Lei categorize drawings and diagrams about Ruralation Museum Hotel for media."
+    - "Assisted the conceptual design, including material collection, site condition, urban context and climate data analysis by ArcGIS and SPSS, and helped complete the first version model of Lei House by Rhinoceros."
+  tools: [ArcGIS, Rhinoceros, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator]
+
+- entity: "MAD Architects"
+  link : https://www.hdrinc.com/
+  location: Beijing
+  country: China
+  role: "Assistant Architect"
+  from: 07/2020
+  to: 12/2020
+  description: 6-month assistant for modeling, drawing and web-developing.
+  courses:
+    - "Worked with Dang Qun and Ma Yansong, helped developed the circular circulation for the in-process project Jiaxing Civic Center, and finished the east wing first and second floor sections and image rendering."
+    - "Assisted design and produced technical drawings for the public courtyard and nearby urban context in the project Pingtan Art Museum, edited multiple proposals and updated the second version project BIM Model."
+    - "Helped improve the UI design for the firm website, i-mad.com, proposed the menu tab to be set on the left side of the page, leaving the entire default webpage area for the project image."
+  tools: [ArcGIS, Rhinoceros, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator]
