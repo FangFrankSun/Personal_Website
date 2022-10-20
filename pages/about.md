@@ -33,12 +33,3 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
 <div class="row">
   {% include about/timeline.html source=site.data.arch-experience-timeline %}
 </div>
-
-## Other Experience
-<div class="row">
-  {% include about/timeline.html source=site.data.other-experience-timeline %}
-</div>
-
-
-
-
