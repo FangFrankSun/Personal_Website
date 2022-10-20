@@ -13,4 +13,17 @@
     - "Applied and received the national patent (201721325329.0)."
   tools: [Python, Java, C++, git, php, JavaScript]
   
+- entity: "HummerChess Education"
+  link : https://www.littlehummerchess.club
+  location: Shanghai, China
+  country: China
+  role: "Chief Executive Officer (CEO)"
+  from: 04/2019
+  to: present
+  description: company owner for chess tutoring and youtuber.
+  courses:
+    - "Created chess education company to teach people from all ages chess playing."
+    - "Self-made 300+ tutorial videos on Youtube, TikTok, Bilibili, etc, online, with more than 400,000 subscribers."
+    - "Self-programmed chess playing website and mini-program in WeChat with Node.js and React."
+  tools: [html, php, CSS, API from chess.com]
   
