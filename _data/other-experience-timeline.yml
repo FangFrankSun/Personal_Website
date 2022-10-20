@@ -1,0 +1,16 @@
+- entity: "ETCP Co., Ltd."
+  link : https://www.etcp.cn
+  location: Beijing, China
+  country: China
+  role: "Project Initiator/Leader"
+  from: 10/2016
+  to: 03/2018
+  description: 6-month project leader in designing new parking system in Shanghai.
+  courses:
+    - "Organized a team of eight to research the parking issue in Shanghai."
+    - "Developed the new parking system prototype, redesigned the public parking space with Rhino and BIM."
+    - "Installed devices in garages in designed, publicized the application in AppStore and Google Play."
+    - "Applied and received the national patent (201721325329.0)."
+  tools: [Python, Java, C++, git, php, JavaScript]
+  
+  
