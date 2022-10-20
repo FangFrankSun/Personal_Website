@@ -24,18 +24,15 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
   {% include about/timeline.html source=site.data.education-timeline %}
 </div>
 
-
-## Work Experience in Architecture
-<div class="row">
-  {% include about/timeline.html source=site.data.arch-experience-timeline %}
-</div>
-
-
 ## Work Experience in Computer Science
 <div class="row">
   {% include about/timeline.html source=site.data.cs-experience-timeline %}
 </div>
 
+## Work Experience in Architecture
+<div class="row">
+  {% include about/timeline.html source=site.data.arch-experience-timeline %}
+</div>
 
 ## Other Experience
 <div class="row">
