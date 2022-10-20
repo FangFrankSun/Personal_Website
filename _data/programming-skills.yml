@@ -8,7 +8,7 @@
 
 - name: Python
   percentage: 85
-  color: Blue3
+  color: info
 
 - name: C++
   percentage: 70
