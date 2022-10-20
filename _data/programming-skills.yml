@@ -12,11 +12,11 @@
 
 - name: C++
   percentage: 70
-  color: Blue4
+  color: Sky_Blue
   
 - name: Go
   percentage: 70
-  color: Blue5
+  color: Powder_Blue
   
 - name: JavaScript
   percentage: 70
