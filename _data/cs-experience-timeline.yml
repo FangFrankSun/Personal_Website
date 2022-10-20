@@ -50,4 +50,4 @@
   courses:
     - "Attended iOS Developer Program, reviewing system functionality with data collection and API testing."
     - "Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts."
-  tools: [Python, Java, JavaScript, C#, Ruby]
+  tools: [Python, Java, JavaScript, C#, Ruby, C#]
