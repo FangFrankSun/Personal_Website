@@ -1,6 +1,6 @@
 - name: HTML5/CSS3
   percentage: 90
-  color: Blue1
+  color: info
 
 - name: Java
   percentage: 90
