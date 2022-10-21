@@ -1,6 +1,6 @@
 - entity: "Alibaba Group Holding Limited"
   link : https://www.alibabagroup.com/en-US/
-  location: Hangzhou, China
+  location: Hangzhou, Zhejiang, China
   country: China
   role: "Java Developer Intern"
   from: 06/2021
@@ -26,7 +26,7 @@
   tools: [Python, Java, Webhook, scipy, pymoo, git, JavaScript, API]
 
   
-- entity: "Roboticplus AI"
+- entity: "Roboticplus.AI"
   link : https://www.roboticplus.com
   location: Shanghai, China
   country: China
