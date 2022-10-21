@@ -1,10 +1,10 @@
 - entity: "Perkins&Will"
   link : https://perkinswill.com
-  location: Washington D.C.
+  location: Washington D.C., USA
   country: USA
   role: Design Intern
-  from: May 2022
-  to: Sept 2022
+  from: 05/2022
+  to: 09/2022
   description: 3-month internship for project drawing, modeling assistance and self parametric design
   courses:
     - "Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit."
@@ -14,7 +14,7 @@
   
 - entity: "HDR Inc."
   link : https://www.hdrinc.com/
-  location: Arlington, VA
+  location: Arlington, VA, USA
   country: USA
   role: "Design Intern"
   from: 12/2021
@@ -28,7 +28,7 @@
 
 - entity: "AZL Architects in Southeast University"
   link : https://www.archdaily.com/office/azl-architects
-  location: Nanjing, Jiangsu
+  location: Nanjing, Jiangsu, China
   country: China
   role: "Research Assistant"
   from: 01/2021
@@ -41,7 +41,7 @@
 
 - entity: "MAD Architects"
   link : https://www.hdrinc.com/
-  location: Beijing
+  location: Beijing, China
   country: China
   role: "Assistant Architect"
   from: 07/2020
