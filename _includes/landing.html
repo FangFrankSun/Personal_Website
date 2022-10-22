@@ -17,18 +17,7 @@
     <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">
       {{ site.description }}
     </p>
-
-
-<!--
-<section id="skills">
-  <div class="m-3 mt-5">
-    <h2>Skills</h2>
-    <br />
-    {% include about/skills.html title="Programming Skills"
-    source=site.data.programming-skills %}
-  </div>
-</section>
--->
+  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
   $(document).ready(function () {
@@ -136,21 +125,21 @@
       },
       modes: {
         grab: {
-          distance: 100,
+          distance: 140,
           line_linked: {
             opacity: 1,
           },
         },
         bubble: {
-          distance: 800,
-          size: 20,
-          duration: 5,
-          opacity: 15,
-          speed: 5,
+          distance: 400,
+          size: 40,
+          duration: 2,
+          opacity: 8,
+          speed: 3,
         },
         repulse: {
-          distance: 500,
-          duration: 1,
+          distance: 200,
+          duration: 0.4,
         },
         push: {
           particles_nb: 4,
