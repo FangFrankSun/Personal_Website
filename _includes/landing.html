@@ -1,18 +1,22 @@
 <div class="row justify-content-center align-items-center p-4">
-  <div class="col-lg-4 col-md-6 text-center mt-4">
-
-    <!-- Fine Circle Responsive Image -->
+  <!-- For ghosts <canvas id="canvas">Your browser doesn't support canvas</canvas>-->
+  <div id="particles-js"></div>
+  <div class="col-lg-4 col-md-6 text-center m-5">
+    <!-- Fine Circle Responsive Image  -->
     <div id="container" class="my-2">
       <div id="dummy"></div>
       <div id="element">
-        <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
+        <img
+          src="{{ site.author.image }}"
+          alt="{{ site.title }}"
+          class="circle-image wow animated zoomIn"
+          data-wow-delay=".1s"
+        />
       </div>
     </div>
-
-    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
-
-  </div>
-</div>
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">
+      {{ site.description }}
+    </p>
     <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">
       <a
         class="btn btn-outline-primary button-round m-4"
@@ -162,21 +166,21 @@
       },
       modes: {
         grab: {
-          distance: 140,
+          distance: 100,
           line_linked: {
             opacity: 1,
           },
         },
         bubble: {
-          distance: 400,
-          size: 40,
-          duration: 2,
-          opacity: 8,
-          speed: 3,
+          distance: 800,
+          size: 20,
+          duration: 5,
+          opacity: 15,
+          speed: 5,
         },
         repulse: {
-          distance: 200,
-          duration: 0.4,
+          distance: 500,
+          duration: 1,
         },
         push: {
           particles_nb: 4,
