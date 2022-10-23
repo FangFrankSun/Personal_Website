@@ -1,6 +1,6 @@
 ---
 name: Chess Lc0 Engine (Leela Chess Zero)
-tools: [Python, C++, Jupyter]
+tools: [C, C++, CMake, Python, Go, Cuda, JavaScript, Html]
 image: /image/lc0/lc0.jpg
 description: Top chess AI lc0, using Stockfish's position representation and move generation. https://lczero.org
 ---
