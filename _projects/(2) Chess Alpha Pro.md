@@ -2,7 +2,7 @@
 name: Chess Alpha Pro
 tools: [Python, C++, Jupyter]
 image: /image/Chess_Alpha_Pro/2.jpg
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: This is a self design chess design software.
 ---
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kmader/chess-alpha-zero/master?urlpath=lab)
