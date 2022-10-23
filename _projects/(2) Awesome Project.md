@@ -1,6 +1,6 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
+name: Chess Alpha Pro
+tools: [Python, C++, Jupyter]
 image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
 description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
 ---
@@ -111,7 +111,7 @@ python src/chess_zero/run.py eval --type distributed
 
 To set up ChessZero with a GUI, point it to `C0uci.bat` (or rename to .sh).
 For example, this is screenshot of the random model using Arena's self-play feature:
-![capture](https://user-images.githubusercontent.com/4205182/34057277-e9c99118-e19b-11e7-91ee-dd717f7efe9d.PNG)
+![preview](/image/Chess_Alpha_Pro/1.jpg)
 
 Data
 -----
