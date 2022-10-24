@@ -1,13 +1,16 @@
 - name: HTML5/CSS3
   percentage: 90
+  level : Advanced
   color: primary
 
 - name: Java
   percentage: 90
+  level : Advanced
   color: info
 
 - name: Python
   percentage: 85
+  level : Advanced
   color: primary
 
   
