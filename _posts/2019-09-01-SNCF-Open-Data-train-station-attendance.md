@@ -1,10 +1,9 @@
 ---
-title: "SNCF Open Data: train station attendance"
+title: SNCF Open Data: train station attendance
 tags: [Data Visualization, Python, plotly]
 style: border
 color: primary
 description: Geo-visualization of train stations
-comments: true
 ---
 
 ## Passengers per french train station in 2018
