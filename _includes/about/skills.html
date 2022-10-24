@@ -13,7 +13,23 @@
       <p class="mb-1 text-muted">{{ skill.percentage }}%</p>
     </div>
   </div>
-
+  
+  
+  
+  
+{% endif %}
+  {% for skill in include.source %}
+    <div class="skill">
+      <p>{{ skill.name }}</p>
+      <div class="skill-bar skill-bar-{{ skill.color }} skill-{{ skill.percentage }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
+        <span>{{ skill.level }}</span>
+      </div>
+    </div>
+  
+  
+  
+  
+  
   <div class="progress mb-4 bg-themed" style="height: 8px;">
     <div class="progress-bar bg-{{ skill.color | default: "primary" }} wow animated slideInLeft"
       data-wow-delay="{{ forloop.index | divided_by: 20.0 }}"
