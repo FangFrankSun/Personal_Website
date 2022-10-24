@@ -14,13 +14,10 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
 
 
 
-## Work Experience in Computer Science
 <div class="row">
-  {% include about/timeline.html source=site.data.cs-experience-timeline %}
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
-
-
-
 
 
 
