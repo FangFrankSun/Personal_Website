@@ -13,16 +13,25 @@ a senior student double majoring in [Architecture](https://www.arch.virginia.edu
 I am also a chess national master with uscf rating 2359, and I have my own firm called [Hummer Education](https://www.littlehummerchess.club), dedicated to help more people learn better chess skills. And now we started to do software development courses as well, with online tutorials in Chinese for most of them.
 
 
-<div class="row">
-{% include about/timeline.html source=site.data.arch-experience-timeline %}
-</div>
 
 
+<br>
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
-
+<br>
+<div class="row">
+{% include about/timeline.html source=site.data.cs-experience-timeline %}
+</div>
+<br>
+<div class="row">
+{% include about/timeline.html source=site.data.arch-experience-timeline %}
+</div>
+<br>
+<div class="row">
+{% include about/timeline.html source=site.data.other-experience-timeline %}
+</div>
 
 
 
