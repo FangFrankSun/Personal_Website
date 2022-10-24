@@ -1,6 +1,6 @@
 
 ---
-title: SNCF Open Data: train station attendance
+title: SNCF Open Data train station attendance
 tags: [Social Media, Minimalism, Technology]
 style: 
 color: 
