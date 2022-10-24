@@ -5,8 +5,8 @@ image: /image/Chess_Alpha_Pro/2.jpg
 description: This is a self design chess design software.
 ---
 
-Introduction
-=====
+## Introduction
+
 
 Chess reinforcement learning by [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/) methods.
 
@@ -18,8 +18,8 @@ https://arxiv.org/pdf/1712.01815.pdf. In fact, in chess AlphaZero outperformed S
 
 See the [wiki](https://github.com/Akababa/Chess-Zero/wiki) for more details.
 
-Note
-----
+## Note
+
 
 I'm the creator of this repo. I (and some others collaborators did our best: https://github.com/Zeta36/chess-alpha-zero/graphs/contributors) but we found the self-play is too much costed for an only machine. Supervised learning worked fine but we never try the self-play by itself.
 
@@ -29,8 +29,7 @@ Project is almost done and everybody will be able to participate just by executi
 
 So, I ask everybody that wish to see a UCI engine running a neural network to beat Stockfish go into that repo and help with his machine power.
 
-Environment
------------
+## Environment
 
 * Python 3.6.3
 * tensorflow-gpu: 1.3.0
@@ -62,8 +61,8 @@ Here we have a game trained by @bame55 (AI plays white):
 
 This model plays in this way after only 5 epoch iterations of the 'opt' worker, the 'eval' worker changed 4 times the best model (4 of 5). At this moment the loss of the 'opt' worker is 5.1 (and still seems to be converging very well).
 
-Modules
--------
+## Modules
+
 
 ### Supervised Learning
 
@@ -110,8 +109,8 @@ To set up ChessZero with a GUI, point it to `C0uci.bat` (or rename to .sh).
 For example, this is screenshot of the random model using Arena's self-play feature:
 ![preview](/image/Chess_Alpha_Pro/1.jpg)
 
-Data
------
+## Data
+
 
 * `data/model/model_best_*`: BestModel.
 * `data/model/next_generation/*`: next-generation models.
@@ -120,11 +119,11 @@ Data
 
 If you want to train the model from the beginning, delete the above directories.
 
-How to use
-==========
+### How to use
 
-Setup
--------
+
+## Setup
+
 ### install libraries
 ```bash
 pip install -r requirements.txt
@@ -135,16 +134,16 @@ If you want to use GPU, follow [these instructions](https://www.tensorflow.org/i
 Make sure Keras is using Tensorflow and you have Python 3.6.3+. Depending on your environment, you may have to run python3/pip3 instead of python/pip.
 
 
-Basic Usage
-------------
+### Basic Usage
+
 
 For training model, execute `Self-Play`, `Trainer` and `Evaluator`.
 
 **Note**: Make sure you are running the scripts from the top-level directory of this repo, i.e. `python src/chess_zero/run.py opt`, not `python run.py opt`.
 
 
-Self-Play
---------
+### Self-Play
+
 
 ```bash
 python src/chess_zero/run.py self
@@ -157,8 +156,8 @@ If the BestModel does not exist, new random model will be created and become Bes
 * `--new`: create new BestModel
 * `--type mini`: use mini config for testing, (see `src/chess_zero/configs/mini.py`)
 
-Trainer
--------
+### Trainer
+
 
 ```bash
 python src/chess_zero/run.py opt
@@ -172,8 +171,8 @@ Trained model will be saved every epoch.
 * `--type mini`: use mini config for testing, (see `src/chess_zero/configs/mini.py`)
 * `--total-step`: specify total step(mini-batch) numbers. The total step affects learning rate of training.
 
-Evaluator
----------
+### Evaluator
+
 
 ```bash
 python src/chess_zero/run.py eval
@@ -187,11 +186,11 @@ If next-generation model wins, it becomes BestModel.
 * `--type mini`: use mini config for testing, (see `src/chess_zero/configs/mini.py`)
 
 
-Tips and Memory
-====
+## Tips and Memory
 
-GPU Memory
-----------
+
+### GPU Memory
+
 
 Usually the lack of memory cause warnings, not error.
 If error happens, try to change `vram_frac` in `src/configs/mini.py`,
