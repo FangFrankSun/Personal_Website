@@ -1,11 +1,12 @@
-
 ---
 title: SNCF Open Data train station attendance
 tags: [Social Media, Minimalism, Technology]
-style: 
-color: 
+style: fill
+color: primary
 description: Geo-visualization of train stations
 ---
+
+
 
 ## Passengers per french train station in 2018
 
