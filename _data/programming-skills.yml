@@ -11,3 +11,22 @@
   color: primary
 
   
+- name: C++
+  percentage: 80
+  color: info
+  
+- name: Go
+  percentage: 75
+  color: primary
+  
+- name: JavaScript
+  percentage: 75
+  color: info
+
+- name: React
+  percentage: 70
+  color: primary
+  
+- name: Swift
+  percentage: 70
+  color: info
