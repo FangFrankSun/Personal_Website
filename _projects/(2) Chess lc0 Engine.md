@@ -6,7 +6,7 @@ description: Top chess AI lc0, using Stockfish's position representation and mov
 ---
 
 
-# Introduction
+## Introduction
 
 This is an adaptation of [GCP](https://github.com/gcp)'s [Leela Zero](https://github.com/gcp/leela-zero/) repository to chess, using Stockfish's position representation and move generation. (No heuristics or prior knowledge are carried over from Stockfish.)
 
@@ -17,9 +17,9 @@ We will need to do this with a distributed project, as it requires a huge amount
 Please visit the LCZero forum to discuss: https://groups.google.com/forum/#!forum/lczero, or the github issues.
 
 
-# Compiling
+## Compiling
 
-## Requirements
+### Requirements
 
 * GCC, Clang or MSVC, any C++14 compiler
 * boost 1.54.x or later (libboost-all-dev on Debian/Ubuntu)
@@ -35,7 +35,7 @@ Please visit the LCZero forum to discuss: https://groups.google.com/forum/#!foru
 * The program has been tested on Linux.
 
 
-## Example of compiling - Ubuntu 16.04
+### Example of compiling - Ubuntu 16.04
 
     # Install dependencies
     sudo apt install cmake g++ git libboost-all-dev libopenblas-dev opencl-headers ocl-icd-libopencl1 ocl-icd-opencl-dev zlib1g-dev
@@ -59,23 +59,23 @@ Please visit the LCZero forum to discuss: https://groups.google.com/forum/#!foru
     make
     ./tests
 
-# Compiling Client
+## Compiling Client
 
 See https://github.com/glinscott/leela-chess/tree/master/go/src/client/README.md.
 This client will produce self-play games and upload them to http://lczero.org. 
 A central server uses these self-play game data as inputs for the training process.
 
-## Weights
+### Weights
 
 The weights from the distributed training are downloadable from http://lczero.org/networks. The best one is the top network that has some games played on it.
 
 Weights that we trained to prove the engine was solid are here https://github.com/glinscott/lczero-weights. The best weights obtained through supervised learning on a human dataset were with elo ratings > 2000.
 
-# Training
+## Training
 
 The training pipeline resides in `training/tf`, this requires tensorflow running on linux (Ubuntu 16.04 in this case). 
 
-## Data preparation
+### Data preparation
 
 In order to start a training session you first need to download trainingdata from https://training.lczero.org. This data is packed in tar.gz balls each containing 10'000 games or chunks as we call them. Preparing data requires the following steps:
 
@@ -86,7 +86,7 @@ ls training.* | parallel gzip {}
 
 This repacks each chunk into a gzipped file ready to be parsed by the training pipeline. Note that the `parallel` command uses all your cores and can be installed with `apt-get install parallel`.
 
-## Training pipeline
+### Training pipeline
 
 Now that the data is in the right format one can configure a training pipeline. This configuration is achieved through a yaml file, see `training/tf/configs/example.yaml`:
 
@@ -136,20 +136,20 @@ tensorboard --logdir leelalogs
 
 If you now point your browser at localhost:6006 you'll see the trainingprogress as the trainingsteps pass by. Have fun!
 
-## Restoring models
+### Restoring models
 
 The training pipeline will automatically restore from a previous model if it exists in your `training:path` as configured by your yaml config. For initializing from a raw `weights.txt` file you can use `training/tf/net_to_model.py`, this will create a checkpoint for you.
 
-## Supervised training
+### Supervised training
 
 Generating trainingdata from pgn files is currently broken and has low priority, feel free to create a PR.
 
-# Other projects
+## Other projects
 
 * [mokemokechicken/reversi-alpha-zero](https://github.com/mokemokechicken/reversi-alpha-zero)
 * [Zeta36/chess-alpha-zero](https://github.com/Zeta36/chess-alpha-zero)
 * [benediamond/chess-alpha-zero](https://github.com/benediamond/chess-alpha-zero/)
 
-# License
+## License
 
 The code is released under the GPLv3 or later, except for ThreadPool.h, cl2.hpp and the clblast_level3 subdir, which have specific licenses (compatible with GPLv3) mentioned in those files.
