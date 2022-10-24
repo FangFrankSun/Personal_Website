@@ -13,6 +13,7 @@ This tool provides an easy way to create a GitHub profile readme with the latest
 ## 🚀Demo
  
 Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+<br>
 
 ## 🧐Features
 
@@ -40,6 +41,7 @@ Just fill in the details such as `Name`, `Tagline`, `Dev Platforms Username`, `C
 
 
 Click on `Generate README` to get your README in `markdown`. You can preview the README too.
+<br>
 
 ## 🛠️ Installation Steps
 
@@ -55,7 +57,10 @@ Click on `Generate README` to get your README in `markdown`. You can preview the
 4. Run the app
 `npm start`
 
+<br>
+
 ## 🌟 You are all set!
+<br>
 
 
 ## 💻 Built with
@@ -64,10 +69,11 @@ Click on `Generate README` to get your README in `markdown`. You can preview the
 - [Tailwind CSS](https://tailwindcss.com): for styling
 - [GSAP](https://greensock.com/gsap/): for small SVG Animations
 
-
+<br>
 ## 🙇 Sponsors
 
 - [Scott C Wilson](https://github.com/scottcwilson) donated the first-ever grant to this tool. A big thanks to him.
 - [Max Schmitt](https://github.com/mxschmitt) loved the tool and showed support with his donation. Thanks a lot.
 - [Aadit Kamat](https://github.com/aaditkamat) find the tool useful and showed support with his donation. A big thanks to him.
 - [Jean-Michel Fayard](https://github.com/jmfayard) used the generator to create his GitHub Profile README and he loved it. Thanks to him for showing support to the tool with the donation.
+<br>
