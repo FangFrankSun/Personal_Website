@@ -19,7 +19,7 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
  -->
 
 <div class="row">
-{% include about/timeline.html source=site.arch-experience-timeline %}
+{% include about/timeline.html source=site.data.arch-experience-timeline %}
 </div>
 
 
