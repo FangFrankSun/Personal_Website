@@ -19,7 +19,7 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
  -->
 
 <div class="row">
-{% include about/experience-timeline.html %}
+{% include about/timeline.html title="test Skills" source=site.programming-skills %}
 </div>
 
 
