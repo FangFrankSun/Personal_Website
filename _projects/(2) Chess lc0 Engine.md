@@ -5,8 +5,6 @@ image: /image/lc0/lc0.png
 description: Top chess AI lc0, using Stockfish's position representation and move generation. https://lczero.org
 ---
 
-[![Linux Build Status](https://travis-ci.org/glinscott/leela-chess.svg?branch=master)](https://travis-ci.org/glinscott/leela-chess)
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/w2nymx3wpd0d1da1/branch/master?svg=true)](https://ci.appveyor.com/project/glinscott/leela-chess/branch/master)
 
 # Introduction
 
