@@ -1,8 +1,9 @@
+
 ---
 title: SNCF Open Data: train station attendance
-tags: [Data Visualization, Python, plotly]
-style: border
-color: primary
+tags: [Social Media, Minimalism, Technology]
+style: 
+color: 
 description: Geo-visualization of train stations
 ---
 
