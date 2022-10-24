@@ -16,7 +16,7 @@ I am also a chess national master with uscf rating 2359, and I have my own firm 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Design Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
 ## Education
