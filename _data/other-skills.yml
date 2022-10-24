@@ -4,10 +4,32 @@
 
 - name: Adobe Illustrator
   percentage: 90
-  color: success
+  color: primary
   
   
 - name: Adobe Indesign
   percentage: 95
-  color: warning
+  color: info
+  
+- name: Rhinoceros/SketchUp
+  percentage: 95
+  color: primary
+  
+  
+- name: AutoCAD
+  percentage: 95
+  color: info
+  
+- name: Grasshopper
+  percentage: 85
+  color: primary
+  
+- name: ArcGIS
+  percentage: 85
+  color: info
+  
+- name: Revit
+  percentage: 75
+  color: primary
+  
   
