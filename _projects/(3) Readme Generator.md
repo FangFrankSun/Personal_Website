@@ -10,6 +10,7 @@ description: The tool provides an easy way to create a GitHub profile readme wit
 This tool provides an easy way to create a GitHub profile readme with the latest add-ons such as `visitors count`, `github stats`, `personal skill set` etc.
 
 <br>
+-----
 
 ## 🚀Demo
  
@@ -17,7 +18,7 @@ Try the tool: [GitHub Profile README Generator](https://rahuldkjain.github.io/gh
 <br>
 <br>
 
-
+-----
 
 ## 🧐Features
 
