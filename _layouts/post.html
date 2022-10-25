@@ -16,7 +16,11 @@ layout: page
   </b>
 
   <br>
-
+    
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
+    
+    
   {%- if page.tags != empty -%}
     Tags: 
     {% for tag in page.tags %}
@@ -37,6 +41,5 @@ layout: page
 {% endif %}
 
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
+
 
