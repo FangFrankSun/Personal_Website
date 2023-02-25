@@ -1,0 +1,31 @@
+- entity: "Aparkers (Smart Parking Development)"
+  link : https://www.etcp.cn
+  location: Beijing, China
+  country: China
+  role: "Project Initiator/Leader"
+  from: Oct 2016
+  to: Mar 2018
+  description: 6-month project leader in designing new parking system in Shanghai.
+  courses:
+    - "Led a team of 8 to identify the causes of parking problems in Shanghai"
+    - "Crafted a smart parking plan and visualized the parking space design with Rhino and BIM"
+    - "Developed and installed signal detection devices in existing parking lots to shorten waiting time"
+    - "Created an app providing parking guidance and promoted it in AppStore and Google Play"
+    - "Received the patent (201721325329.0); the project was acquired by ETCP, a leading company in intelligent parking"
+  tools: [Python, Java, C++, git, php, JavaScript]
+  
+
+- entity: "HummerChess Education"
+  link : https://www.littlehummerchess.club
+  location: Shanghai, China
+  country: China
+  role: "Founder & CEO"
+  from: Apr 2019
+  to: present
+  description: company owner for chess tutoring and youtuber.
+  courses:
+    - "Expanded the company’s target customers from children to chess lovers of all ages"
+    - "Produced and published 270+ tutorial videos on YouTube, TikTok, and Bilibili (more than 300,000 subscribers in total)"
+    - "Devised chess-playing website and WeChat mini-program with Node.js and React"
+  tools: [html, php, CSS, git, API from chess.com]
+  

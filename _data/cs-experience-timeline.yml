@@ -1,42 +1,54 @@
-- entity: "Alibaba Group Holding Limited"
-  link : https://www.alibabagroup.com/en-US/
-  location: Hangzhou, Zhejiang, China
-  country: China
-  role: "Java Developer Intern"
-  from: 06/2021
-  to: 09/2021
-  description: 3-months Java intern for IoT Business in Alibaba.
+- entity: Pierre Fabre Group
+  link : https://www.pierre-fabre.com
+  location: Lavaur, France
+  country: France
+  role: Data Scientist
+  from: Sep 2021
+  to: present
+  description: Full-time data scientist within the CoE Data.
   courses:
-    - "Co-established the online Internet of Things (IoT) system for Xi’niu’s On-demand Production Factory"
-    - "Co-developed an automated customer management system for Xi’niu Factory to improve efficiency"
-    - "Reprogrammed label printers and embroidery machines with Java and ZPL to allow remote operations"
-  tools: [Python, Java, Springboot, git, IoT, Assembly]
+    - "Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy."
+    - "NLP applied to clinical trials: automation of chemgenomics database crossing, accelerating experts’ screening"
+    - "Organizational effectiveness: graph theory applied to interactions, to monitor the company’s transformation."
+  tools: [Python, pandas, spacy, XGBoost, dash, API, pytest, Kubeflow, Snowflake, git]
 
-- entity: "Beijing ByteDance Technology Co., Ltd"
-  link : https://www.bytedance.com/en/
-  location: Shanghai, China
-  country: China
-  role: "Lark Frontend Intern"
-  from: 03/2021
-  to: 06/2021
-  description: 3-month frontend intern for SaaS projects.
+- entity: Airbus Commercial Aircraft
+  link : https://www.airbus.com/
+  location: Toulouse, France
+  country: France
+  role: Data Scientist
+  from: Sep. 2018
+  to: Aug. 2021
+  description: 3-year apprenticeship within the acoustics department.
   courses:
-    - "Provided debug and customization services for users of Lark Open Platform (workplace apps developer)"
-    - "Fixed Lark interface compatibility issues and reviewed a part of Lark 4.0 updates before it went online"
-    - "Co-initiated Lark Knowledge Base and used Java & Python to encode and categorize previous solutions"
-  tools: [Python, Java, Webhook, scipy, pymoo, git, JavaScript, API]
- 
+    - "Anomaly detection: in flight recordings to detect noise pollution and to automatize the cleaning, reducing costs and time required by >90%."
+    - "Data analysis: trend monitoring of production quality and root cause analysis of identified drifts ; identification of contributors to specific aircraft noise variability."
+    - "Clustering: of flight trajectories from high-dimensional data, to generate accurate noise maps based on real-world data and ease simulation."
+    - "Optimization of blade design: improved noise level while preserving efficiency, using genetic algorithms and surrogate modeling (deep learning)."
+  tools: [Python, pandas, scikit-learn, keras, XGBoost, librosa, scipy, pymoo, git]
 
-- entity: "Apple Inc."
-  link : https://apple.com
-  location: Shanghai, China
-  country: China
-  role: "System Test Design Lead"
-  from: 10/2017
-  to: 03/2018
-  description: 6-month test lead for apple API testing, database testing.
+- entity: University of Waterloo
+  link : https://uwaterloo.ca/
+  location: Waterloo, Canada
+  country: Canada
+  role: Experimental work
+  from: Sep 2020
+  to: Jan 2021
+  description: Research project in collaboration with UTC
   courses:
-    - "Debugged 20 issues in macOS 10.14, including 3 severe security alerts with privacy and message missing"
-    - "Collected and provided feedback on the user experience of the iOS 11 Application Program Interface"
-  tools: [Python, Java, JavaScript, C#, Ruby]
+    - "Analysed and cleaned motion data from 100 000+ smart thermostats (>600GB of data)"
+    - "Prediction of the number of occupants in homes to study the impact of the confinement on habits."
+  tools: [Python, pandas, dask, seaborn, scikit-learn, keras, git]
 
+- entity: SNCF
+  link : https://www.sncf.com/fr/groupe/profil-et-chiffres-cles/portrait-entreprise/qui-sommes-nous
+  location: Paris, France
+  country: France
+  role: Experimental Work
+  from: Fev 2020 - Jun 2020
+  to: present
+  description: 6-month project supervised by SNCF researchers
+  courses:
+    - "Optimized the economic performance of a high-speed train by searching the most efficient design of operation."
+    - "Reduced energy consumption and respected a constraint of delay, using dynamic programming."
+  tools: [Python, pandas, git]

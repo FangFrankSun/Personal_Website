@@ -1,95 +1,54 @@
-- entity: "Studios Architecture"
-  link : https://studios.com/
-  location: Washington D.C., USA
-  country: USA
-  role: Design Intern
-  from: 01/2023
-  to: 12/2022
-  description: 3-month internship for project drawing, modeling assistance and self parametric design
+- entity: Pierre Fabre Group
+  link : https://www.pierre-fabre.com
+  location: Lavaur, France
+  country: France
+  role: Data Scientist
+  from: Sep 2021
+  to: present
+  description: Full-time data scientist within the CoE Data.
   courses:
-    - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
-    - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
-  tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
+    - "Key Opinion Leader: identification and mapping platform developped from scratch, saving 100k-1M€ annualy."
+    - "NLP applied to clinical trials: automation of chemgenomics database crossing, accelerating experts’ screening"
+    - "Organizational effectiveness: graph theory applied to interactions, to monitor the company’s transformation."
+  tools: [Python, pandas, spacy, XGBoost, dash, API, pytest, Kubeflow, Snowflake, git]
 
-
-- entity: "Perkins&Will"
-  link : https://perkinswill.com
-  location: Washington D.C., USA
-  country: USA
-  role: Design Intern
-  from: 06/2022 
-  to: 08/2022
-  description: 3-month internship for project drawing, modeling assistance and self parametric design
+- entity: Airbus Commercial Aircraft
+  link : https://www.airbus.com/
+  location: Toulouse, France
+  country: France
+  role: Data Scientist
+  from: Sep. 2018
+  to: Aug. 2021
+  description: 3-year apprenticeship within the acoustics department.
   courses:
-    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
-    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
-    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
-  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
-  
-- entity: "HDR Inc."
-  link : https://www.hdrinc.com/
-  location: Arlington, VA, USA
-  country: USA
-  role: "Design Intern"
-  from: 12/2021
-  to: 01/2022
-  description: 1-month internship for project modeling and documenting assistance 
-  courses:
-    - "Drew analysis diagrams and recreated unit models for a children’s hospital with AutoCAD, Rhino, Revit, and Photoshop"
-    - "Designed 10 parametric façade iterations for a Schematic Design project with Rhino, Grasshopper, Revit, and Dynamo"
-    - "Created 2 Grasshopper plugins (via Python) for employees to conveniently generate solids only using curves"
-  tools: [Rhinoceros, SketchUp, Revit, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator, Python]
+    - "Anomaly detection: in flight recordings to detect noise pollution and to automatize the cleaning, reducing costs and time required by >90%."
+    - "Data analysis: trend monitoring of production quality and root cause analysis of identified drifts ; identification of contributors to specific aircraft noise variability."
+    - "Clustering: of flight trajectories from high-dimensional data, to generate accurate noise maps based on real-world data and ease simulation."
+    - "Optimization of blade design: improved noise level while preserving efficiency, using genetic algorithms and surrogate modeling (deep learning)."
+  tools: [Python, pandas, scikit-learn, keras, XGBoost, librosa, scipy, pymoo, git]
 
-- entity: "AZL Architects in Southeast University"
-  link : https://www.archdaily.com/office/azl-architects
-  location: Nanjing, Jiangsu, China
-  country: China
-  role: "Research Assistant"
-  from: 01/2021
-  to: 03/2021
-  # description: 3-month Assistant for documentation, redesign, remaping and remodeling.
+- entity: University of Waterloo
+  link : https://uwaterloo.ca/
+  location: Waterloo, Canada
+  country: Canada
+  role: Experimental work
+  from: Sep 2020
+  to: Jan 2021
+  description: Research project in collaboration with UTC
   courses:
-    - "Made 7 iterations of entrance design for Lei House (a traditional Chinese townhouse) renovation project with Rhino and AutoCAD"
-    - "Refined rendered plans and sections for Ruralation Museum Hotel (a hot spring resort hotel) for media publication with AutoCAD, Photoshop, and Lumion"
-    - "Digitalized the hand drawings of sections and plans of a 2011 project (China International Practical Exhibition of Architecture No.4 House) with AutoCAD"
-  tools: [ArcGIS, Rhinoceros, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator]
+    - "Analysed and cleaned motion data from 100 000+ smart thermostats (>600GB of data)"
+    - "Prediction of the number of occupants in homes to study the impact of the confinement on habits."
+  tools: [Python, pandas, dask, seaborn, scikit-learn, keras, git]
 
-- entity: "MAD Architects"
-  link : http://www.i-mad.com
-  location: Beijing, China
-  country: China
-  role: "Design Intern"
-  from: 07/2020
-  to: 12/2020
-  # description: 6-month assistant for modeling, drawing and web-developing.
+- entity: SNCF
+  link : https://www.sncf.com/fr/groupe/profil-et-chiffres-cles/portrait-entreprise/qui-sommes-nous
+  location: Paris, France
+  country: France
+  role: Experimental Work
+  from: Fev 2020 - Jun 2020
+  to: present
+  description: 6-month project supervised by SNCF researchers
   courses:
-    - "Helped develop the circulation plan & created sections and rendered images for 2 floors of Jiaxing Civic Center"
-    - "Produced rendered drawings of the public courtyard and urban context and proposed 3 iterations for Pingtan Art Museum"
-    - "Improved the UI design of the firm’s website (http://www.i-mad.com)"
-  tools: [Rhinoceros, Grasshopper, AutoCAD, Lumion, Photoshop, Html, CSS, JavaScript, Python]
-
-# - entity: "Roboticplus.AI"
-#   link : https://www.roboticplus.com
-#   location: Shanghai, China
-#   country: China
-#   role: "Project Assistant"
-#   from: 05/2020
-#   to: 08/2020
-#   # description: 3-month project assistant for two robotic projects.
-#   courses:
-#     - "Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java"
-#     - "Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing"
-#   tools: [Rhinoceros, Grasshopper, Indesign, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
-
-  - entity: "Tongji Architectural Design Group"
-  link : https://www.tjad.cn/
-  location: Shanghai, China
-  country: China
-  role: "Design Intern"
-  from: 02/2020
-  to: 05/2020
-  description: 3-month project assistant for two robotic projects.
-  courses:
-    - "Helped develop the ground space of Pinghe Secondary School in Suzhou and drew the plans and perspective sections of the building to present to the clients"
-    - "Drew processing diagrams with AutoCAD; helped design external façades of Tongji University Creative Research Institute"
-  tools: [Rhinoceros, SketchUp, AutoCAD, Photoshop, Illustrator, Java]
+    - "Optimized the economic performance of a high-speed train by searching the most efficient design of operation."
+    - "Reduced energy consumption and respected a constraint of delay, using dynamic programming."
+  tools: [Python, pandas, git]
