@@ -19,7 +19,7 @@
   role: "Lark Frontend Intern"
   from: 03/2021
   to: 06/2021
-  # description: 3-month frontend intern for SaaS projects.
+  description: 3-month frontend intern for SaaS projects.
   courses:
     - "Provided debug and customization services for users of Lark Open Platform (workplace apps developer)"
     - "Fixed Lark interface compatibility issues and reviewed a part of Lark 4.0 updates before it went online"

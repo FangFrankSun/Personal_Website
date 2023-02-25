@@ -5,7 +5,7 @@
   role: Design Intern
   from: 01/2023
   to: 12/2022
-  # description: 3-month internship for project drawing, modeling assistance and self parametric design
+  description: 3-month internship for project drawing, modeling assistance and self parametric design
   courses:
     - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
     - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
@@ -18,7 +18,7 @@
   role: Design Intern
   from: 06/2022 
   to: 08/2022
-  # description: 3-month internship for project drawing, modeling assistance and self parametric design
+  description: 3-month internship for project drawing, modeling assistance and self parametric design
   courses:
     - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
     - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
@@ -32,7 +32,7 @@
   role: "Design Intern"
   from: 12/2021
   to: 01/2022
-  # description: 1-month internship for project modeling and documenting assistance 
+  description: 1-month internship for project modeling and documenting assistance 
   courses:
     - "Drew analysis diagrams and recreated unit models for a children’s hospital with AutoCAD, Rhino, Revit, and Photoshop"
     - "Designed 10 parametric façade iterations for a Schematic Design project with Rhino, Grasshopper, Revit, and Dynamo"
@@ -87,7 +87,7 @@
   role: "Design Intern"
   from: 02/2020
   to: 05/2020
-  # description: 3-month project assistant for two robotic projects.
+  description: 3-month project assistant for two robotic projects.
   courses:
     - "Helped develop the ground space of Pinghe Secondary School in Suzhou and drew the plans and perspective sections of the building to present to the clients"
     - "Drew processing diagrams with AutoCAD; helped design external façades of Tongji University Creative Research Institute"
