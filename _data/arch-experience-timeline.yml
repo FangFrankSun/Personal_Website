@@ -25,3 +25,84 @@
     - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
+
+- entity: "Studios Architecture"
+  link : https://studios.com/
+  location: Washington D.C., USA
+  country: USA
+  role: Design Intern
+  from: 01/2023
+  to: 12/2022
+  courses:
+    - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
+    - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
+  tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
+
+
+- entity: "Perkins&Will"
+  link : https://perkinswill.com
+  location: Washington D.C., USA
+  country: USA
+  role: Design Intern
+  from: 06/2022 
+  to: 08/2022
+  courses:
+    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
+    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
+    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
+  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  
+
+- entity: "Studios Architecture"
+  link : https://studios.com/
+  location: Washington D.C., USA
+  country: USA
+  role: Design Intern
+  from: 01/2023
+  to: 12/2022
+  courses:
+    - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
+    - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
+  tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
+
+
+- entity: "Perkins&Will"
+  link : https://perkinswill.com
+  location: Washington D.C., USA
+  country: USA
+  role: Design Intern
+  from: 06/2022 
+  to: 08/2022
+  courses:
+    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
+    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
+    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
+  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  
+  
+- entity: "Studios Architecture"
+  link : https://studios.com/
+  location: Washington D.C., USA
+  country: USA
+  role: Design Intern
+  from: 01/2023
+  to: 12/2022
+  courses:
+    - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
+    - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
+  tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
+
+
+- entity: "Perkins&Will"
+  link : https://perkinswill.com
+  location: Washington D.C., USA
+  country: USA
+  role: Design Intern
+  from: 06/2022 
+  to: 08/2022
+  courses:
+    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
+    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
+    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
+  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  
