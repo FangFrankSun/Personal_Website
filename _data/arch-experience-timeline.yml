@@ -1,7 +1,7 @@
 
 - entity: "Studios Architecture"
   link : https://studios.com/
-  location: Washington D.C.
+  location: Washington D.C., USA
   country: USA
   role: Design Intern
   from: 01/2023
@@ -14,7 +14,7 @@
 
 - entity: "Perkins&Will"
   link : https://perkinswill.com
-  location: Washington D.C.
+  location: Washington D.C., USA
   country: USA
   role: Design Intern
   from: 06/2022 
@@ -28,7 +28,7 @@
 
 - entity: "HDR Inc."
   link : https://hdrinc.com/
-  location: Arlington (VA)
+  location: Arlington (Virginia), USA
   country: USA
   role: Design Intern
   from: 01/2023
@@ -42,7 +42,7 @@
 
 - entity: "AZL Architects"
   link : https://www.archdaily.com/office/azl-architects
-  location: Nanjing (Jiangsu)
+  location: Nanjing (Jiangsu), China
   country: China
   role: Design Intern
   from: 01/2021 
@@ -56,7 +56,7 @@
 
 - entity: "MAD Architects"
   link : http://www.i-mad.com
-  location: Beijing
+  location: Beijing, China
   country: China
   role: Design Intern
   from: 07/2020
@@ -70,7 +70,7 @@
 
 - entity: "Roboticsplus.AI"
   link : https://roboticsplus.com
-  location: Shanghai
+  location: Shanghai, China
   country: China
   role: Project Assistant
   from: 05/2020
@@ -84,7 +84,7 @@
 
 - entity: "Tongji Architectural Design Group"
   link : https://tjad.cn
-  location: Shanghai
+  location: Shanghai, China
   country: China
   role: Design Intern
   from: 02/2020 
