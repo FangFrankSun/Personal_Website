@@ -7,8 +7,9 @@
   to: 09/2021
   description: 3-months Java intern for IoT Business in Alibaba.
   courses:
-    - "Attended AI Manufacture Project and created online IoT system for XINIU factories in Hangzhou by Aliyun."
-    - "Reprogrammed Zebra printers and embroiderers with Java and ZPL languages, compatible with online services."
+    - "Co-established the online Internet of Things (IoT) system for Xi’niu’s On-demand Production Factory"
+    - "Co-developed an automated customer management system for Xi’niu Factory to improve efficiency"
+    - "Reprogrammed label printers and embroidery machines with Java and ZPL to allow remote operations"
   tools: [Python, Java, Springboot, git, IoT, Assembly]
 
 - entity: "Beijing ByteDance Technology Co., Ltd"
@@ -18,26 +19,13 @@
   role: "Lark Frontend Intern"
   from: 03/2021
   to: 06/2021
-  description: 3-month frontend intern for SaaS projects.
+  # description: 3-month frontend intern for SaaS projects.
   courses:
-    - "Provided Technical Services for Lark Open Platform (Test API, Webhook Robots, mini-programs)."
-    - "Wrote Java/Python request code in Lark Knowledge Base, debugged and customized designs for Lark users."
-    - "Provided coding support for SaaS customers from other companies using JavaScript and Postman."
+    - "Provided debug and customization services for users of Lark Open Platform (workplace apps developer)"
+    - "Fixed Lark interface compatibility issues and reviewed a part of Lark 4.0 updates before it went online"
+    - "Co-initiated Lark Knowledge Base and used Java & Python to encode and categorize previous solutions"
   tools: [Python, Java, Webhook, scipy, pymoo, git, JavaScript, API]
-
-  
-- entity: "Roboticplus.AI"
-  link : https://www.roboticplus.com
-  location: Shanghai, China
-  country: China
-  role: "Project Assistant"
-  from: 05/2020
-  to: 08/2020
-  description: 3-month project assistant for two robotic projects.
-  courses:
-    - "Engaged in Landscape Scheme of JINDI Project; focused on installation design with Rhinoceros software."
-    - "Assisted in the development of robot arms with C++, Java languages and programed their movements."
-  tools: [C, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
+ 
 
 - entity: "Apple Inc."
   link : https://apple.com
@@ -48,6 +36,7 @@
   to: 03/2018
   description: 6-month test lead for apple API testing, database testing.
   courses:
-    - "Attended iOS Developer Program, reviewing system functionality with data collection and API testing."
-    - "Led system test design of macOS Developer Program (10.14), debugged 20 issues, with 3 core security alerts."
+    - "Debugged 20 issues in macOS 10.14, including 3 severe security alerts with privacy and message missing"
+    - "Collected and provided feedback on the user experience of the iOS 11 Application Program Interface"
   tools: [Python, Java, JavaScript, C#, Ruby]
+
