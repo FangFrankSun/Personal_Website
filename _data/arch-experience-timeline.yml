@@ -14,15 +14,15 @@
 
 - entity: "Perkins&Will"
   link : https://perkinswill.com
-  location: Washington D.C., USA
+  location: Arlington (VA), USA
   country: USA
   role: Design Intern
-  from: 06/2022 
-  to: 08/2022
+  from: 12/2021 
+  to: 01/2022
   courses:
-    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
-    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
-    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
+    - "Drew analysis diagrams and recreated unit models for a children’s hospital with AutoCAD, Rhino, Revit, and Photoshop"
+    - "Designed 10 parametric façade iterations for a Schematic Design project with Rhino, Grasshopper, Revit, and Dynamo"
+    - "Created 2 Grasshopper plugins (via Python) for employees to conveniently generate solids only using curves"
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
 
@@ -79,7 +79,7 @@
     - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
-  
+
 - entity: "Studios Architecture"
   link : https://studios.com/
   location: Washington D.C., USA
