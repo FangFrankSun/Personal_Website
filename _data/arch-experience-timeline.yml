@@ -1,3 +1,16 @@
+- entity: "Studios Architecture"
+  link : https://studios.com/
+  location: Washington D.C., USA
+  country: USA
+  role: Design Intern
+  from: 01/2023
+  to: 12/2022
+  # description: 3-month internship for project drawing, modeling assistance and self parametric design
+  courses:
+    - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
+    - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
+  tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#， Python]
+
 - entity: "Perkins&Will"
   link : https://perkinswill.com
   location: Washington D.C., USA
