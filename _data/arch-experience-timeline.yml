@@ -68,6 +68,20 @@
   tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
 
 
+- entity: "Roboticsplus.AI"
+  link : https://roboticsplus.com
+  location: Shanghai
+  country: China
+  role: Project Assistant
+  from: 05/2020
+  to: 08/2020
+  courses:
+    - "Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java"
+    - "Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing"
+  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  
+
+
 - entity: "Perkins&Will"
   link : https://perkinswill.com
   location: Washington D.C., USA
