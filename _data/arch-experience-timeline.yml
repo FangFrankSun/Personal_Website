@@ -6,91 +6,22 @@
   role: Design Intern
   from: 01/2023
   to: 12/2022
-  description: 3-month internship for project drawing, modeling assistance and self parametric design
   courses:
     - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
     - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
   tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
 
 
-# - entity: "Perkins&Will"
-#   link : https://perkinswill.com
-#   location: Washington D.C., USA
-#   country: USA
-#   role: Design Intern
-#   from: 06/2022 
-#   to: 08/2022
-#   description: 3-month internship for project drawing, modeling assistance and self parametric design
-#   courses:
-#     - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
-#     - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
-#     - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
-#   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+- entity: "Perkins&Will"
+  link : https://perkinswill.com
+  location: Washington D.C., USA
+  country: USA
+  role: Design Intern
+  from: 06/2022 
+  to: 08/2022
+  courses:
+    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
+    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
+    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
+  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
-# - entity: "HDR Inc."
-#   link : https://www.hdrinc.com/
-#   location: Arlington, VA, USA
-#   country: USA
-#   role: "Design Intern"
-#   from: 12/2021
-#   to: 01/2022
-#   description: 1-month internship for project modeling and documenting assistance 
-#   courses:
-#     - "Drew analysis diagrams and recreated unit models for a children’s hospital with AutoCAD, Rhino, Revit, and Photoshop"
-#     - "Designed 10 parametric façade iterations for a Schematic Design project with Rhino, Grasshopper, Revit, and Dynamo"
-#     - "Created 2 Grasshopper plugins (via Python) for employees to conveniently generate solids only using curves"
-#   tools: [Rhinoceros, SketchUp, Revit, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator, Python]
-
-# - entity: "AZL Architects in Southeast University"
-#   link : https://www.archdaily.com/office/azl-architects
-#   location: Nanjing, Jiangsu, China
-#   country: China
-#   role: "Research Assistant"
-#   from: 01/2021
-#   to: 03/2021
-#   # description: 3-month Assistant for documentation, redesign, remaping and remodeling.
-#   courses:
-#     - "Made 7 iterations of entrance design for Lei House (a traditional Chinese townhouse) renovation project with Rhino and AutoCAD"
-#     - "Refined rendered plans and sections for Ruralation Museum Hotel (a hot spring resort hotel) for media publication with AutoCAD, Photoshop, and Lumion"
-#     - "Digitalized the hand drawings of sections and plans of a 2011 project (China International Practical Exhibition of Architecture No.4 House) with AutoCAD"
-#   tools: [ArcGIS, Rhinoceros, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator]
-
-# - entity: "MAD Architects"
-#   link : http://www.i-mad.com
-#   location: Beijing, China
-#   country: China
-#   role: "Design Intern"
-#   from: 07/2020
-#   to: 12/2020
-#   # description: 6-month assistant for modeling, drawing and web-developing.
-#   courses:
-#     - "Helped develop the circulation plan & created sections and rendered images for 2 floors of Jiaxing Civic Center"
-#     - "Produced rendered drawings of the public courtyard and urban context and proposed 3 iterations for Pingtan Art Museum"
-#     - "Improved the UI design of the firm’s website (http://www.i-mad.com)"
-#   tools: [Rhinoceros, Grasshopper, AutoCAD, Lumion, Photoshop, Html, CSS, JavaScript, Python]
-
-# # - entity: "Roboticplus.AI"
-# #   link : https://www.roboticplus.com
-# #   location: Shanghai, China
-# #   country: China
-# #   role: "Project Assistant"
-# #   from: 05/2020
-# #   to: 08/2020
-# #   # description: 3-month project assistant for two robotic projects.
-# #   courses:
-# #     - "Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java"
-# #     - "Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing"
-# #   tools: [Rhinoceros, Grasshopper, Indesign, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
-
-#   - entity: "Tongji Architectural Design Group"
-#   link : https://www.tjad.cn/
-#   location: Shanghai, China
-#   country: China
-#   role: "Design Intern"
-#   from: 02/2020
-#   to: 05/2020
-#   description: 3-month project assistant for two robotic projects.
-#   courses:
-#     - "Helped develop the ground space of Pinghe Secondary School in Suzhou and drew the plans and perspective sections of the building to present to the clients"
-#     - "Drew processing diagrams with AutoCAD; helped design external façades of Tongji University Creative Research Institute"
-#   tools: [Rhinoceros, SketchUp, AutoCAD, Photoshop, Illustrator, Java]
