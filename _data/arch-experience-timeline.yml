@@ -23,7 +23,7 @@
     - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
     - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
     - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
-  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Blender, Photoshop, Illustrator, InDesign]
   
 
 - entity: "HDR Inc."
@@ -37,7 +37,7 @@
     - "Drew analysis diagrams and recreated unit models for a children’s hospital with AutoCAD, Rhino, Revit, and Photoshop"
     - "Designed 10 parametric façade iterations for a Schematic Design project with Rhino, Grasshopper, Revit, and Dynamo"
     - "Created 2 Grasshopper plugins (via Python) for employees to conveniently generate solids only using curves"
-  tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
+  tools: [Rhinoceros, SketchUp, Grasshopper, AutoCAD, Photoshop, Illustrator, InDesign, Python]
 
 
 - entity: "AZL Architects"
@@ -51,7 +51,7 @@
     - "Made 7 iterations of entrance design for Lei House (a traditional Chinese townhouse) renovation project with Rhino and AutoCAD"
     - "Refined rendered plans and sections for Ruralation Museum Hotel (a hot spring resort hotel) for media publication with AutoCAD, Photoshop, and Lumion"
     - "Digitalized the hand drawings of sections and plans of a 2011 project (China International Practical Exhibition of Architecture No.4 House) with AutoCAD"
-  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  tools: [Rhinoceros, Revit, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator, InDesign]
   
 
 - entity: "MAD Architects"
@@ -65,7 +65,7 @@
     - "Helped develop the circulation plan & created sections and rendered images for 2 floors of Jiaxing Civic Center"
     - "Produced rendered drawings of the public courtyard and urban context and proposed 3 iterations for Pingtan Art Museum"
     - "Improved the UI design of the firm’s website (http://www.i-mad.com)"
-  tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
+  tools: [Rhinoceros, Grasshopper, AutoCAD, Illustrator, Python, php, HTML, JavaScript]
 
 
 - entity: "Roboticsplus.AI"
@@ -78,7 +78,7 @@
   courses:
     - "Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java"
     - "Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing"
-  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  tools: [Rhinoceros, Grasshopper, AutoCAD, Photoshop Illustrator, Indesign, C++, Java, Python]
   
 
 
@@ -92,5 +92,5 @@
   courses:
     - "Helped develop the ground space of Pinghe Secondary School in Suzhou and drew the plans and perspective sections of the building to present to the clients"
     - "Drew processing diagrams with AutoCAD; helped design external façades of Tongji University Creative Research Institute"
-  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  tools: [Rhinoceros, SketchUp, Grasshopper, AutoCAD, Vray, Photoshop, Illustrator, LightRoom]
   
