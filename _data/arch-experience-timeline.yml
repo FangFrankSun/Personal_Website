@@ -40,13 +40,6 @@
   tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
 
 
-
-
-
-
-
-
-
 - entity: "AZL Architects"
   link : https://www.archdaily.com/office/azl-architects
   location: Nanjing (Jiangsu)
@@ -61,16 +54,17 @@
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
 
-- entity: "Studios Architecture"
-  link : https://studios.com/
-  location: Washington D.C., USA
-  country: USA
+- entity: "MAD Architects"
+  link : http://www.i-mad.com
+  location: Beijing
+  country: China
   role: Design Intern
-  from: 01/2023
-  to: 12/2022
+  from: 07/2020
+  to: 12/2020
   courses:
-    - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
-    - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
+    - "Helped develop the circulation plan & created sections and rendered images for 2 floors of Jiaxing Civic Center"
+    - "Produced rendered drawings of the public courtyard and urban context and proposed 3 iterations for Pingtan Art Museum"
+    - "Improved the UI design of the firm’s website (http://www.i-mad.com)"
   tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
 
 
