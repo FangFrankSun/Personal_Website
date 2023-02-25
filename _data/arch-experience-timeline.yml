@@ -67,18 +67,18 @@
     - "Improved the UI design of the firm’s website (http://www.i-mad.com)"
   tools: [Rhinoceros, Grasshopper, AutoCAD, Lumion, Photoshop, Html, CSS, JavaScript, Python]
 
-- entity: "Roboticplus.AI"
-  link : https://www.roboticplus.com
-  location: Shanghai, China
-  country: China
-  role: "Project Assistant"
-  from: 05/2020
-  to: 08/2020
-  # description: 3-month project assistant for two robotic projects.
-  courses:
-    - "Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java"
-    - "Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing"
-  tools: [Rhinoceros, Grasshopper, Indesign, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
+# - entity: "Roboticplus.AI"
+#   link : https://www.roboticplus.com
+#   location: Shanghai, China
+#   country: China
+#   role: "Project Assistant"
+#   from: 05/2020
+#   to: 08/2020
+#   # description: 3-month project assistant for two robotic projects.
+#   courses:
+#     - "Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java"
+#     - "Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing"
+#   tools: [Rhinoceros, Grasshopper, Indesign, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
 
   - entity: "Tongji Architectural Design Group"
   link : https://www.tjad.cn/
