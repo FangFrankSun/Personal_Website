@@ -1,7 +1,7 @@
 
 - entity: "Studios Architecture"
   link : https://studios.com/
-  location: Washington D.C., USA
+  location: Washington D.C.
   country: USA
   role: Design Intern
   from: 01/2023
@@ -14,69 +14,50 @@
 
 - entity: "Perkins&Will"
   link : https://perkinswill.com
-  location: Arlington (VA), USA
+  location: Washington D.C.
   country: USA
   role: Design Intern
-  from: 12/2021 
-  to: 01/2022
+  from: 06/2022 
+  to: 08/2022
+  courses:
+    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
+    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
+    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
+  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
+  
+
+- entity: "HDR Inc."
+  link : https://hdrinc.com/
+  location: Arlington (VA)
+  country: USA
+  role: Design Intern
+  from: 01/2023
+  to: 12/2022
   courses:
     - "Drew analysis diagrams and recreated unit models for a children’s hospital with AutoCAD, Rhino, Revit, and Photoshop"
     - "Designed 10 parametric façade iterations for a Schematic Design project with Rhino, Grasshopper, Revit, and Dynamo"
     - "Created 2 Grasshopper plugins (via Python) for employees to conveniently generate solids only using curves"
-  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
-  
-
-- entity: "Studios Architecture"
-  link : https://studios.com/
-  location: Washington D.C., USA
-  country: USA
-  role: Design Intern
-  from: 01/2023
-  to: 12/2022
-  courses:
-    - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
-    - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
   tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
 
 
-- entity: "Perkins&Will"
-  link : https://perkinswill.com
-  location: Washington D.C., USA
-  country: USA
-  role: Design Intern
-  from: 06/2022 
-  to: 08/2022
-  courses:
-    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
-    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
-    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
-  tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
-  
-
-- entity: "Studios Architecture"
-  link : https://studios.com/
-  location: Washington D.C., USA
-  country: USA
-  role: Design Intern
-  from: 01/2023
-  to: 12/2022
-  courses:
-    - "Model physical building and site models with 3D printing and lasering cutting for two ongoing health institution projects"
-    - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
-  tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
 
 
-- entity: "Perkins&Will"
-  link : https://perkinswill.com
-  location: Washington D.C., USA
-  country: USA
+
+
+
+
+
+- entity: "AZL Architects"
+  link : https://www.archdaily.com/office/azl-architects
+  location: Nanjing (Jiangsu)
+  country: China
   role: Design Intern
-  from: 06/2022 
-  to: 08/2022
+  from: 01/2021 
+  to: 03/2021
   courses:
-    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
-    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
-    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
+    - "Made 7 iterations of entrance design for Lei House (a traditional Chinese townhouse) renovation project with Rhino and AutoCAD"
+    - "Refined rendered plans and sections for Ruralation Museum Hotel (a hot spring resort hotel) for media publication with AutoCAD, Photoshop, and Lumion"
+    - "Digitalized the hand drawings of sections and plans of a 2011 project (China International Practical Exhibition of Architecture No.4 House) with AutoCAD"
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
 
