@@ -55,10 +55,10 @@
   tools: [ArcGIS, Rhinoceros, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator]
 
 - entity: "MAD Architects"
-  link : https://www.hdrinc.com
+  link : http://www.i-mad.com
   location: Beijing, China
   country: China
-  role: "Assistant Architect"
+  role: "Design Intern"
   from: 07/2020
   to: 12/2020
   # description: 6-month assistant for modeling, drawing and web-developing.
