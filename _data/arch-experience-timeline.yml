@@ -82,16 +82,15 @@
   
 
 
-- entity: "Perkins&Will"
-  link : https://perkinswill.com
-  location: Washington D.C., USA
-  country: USA
+- entity: "Tongji Architectural Design Group"
+  link : https://tjad.cn
+  location: Shanghai
+  country: China
   role: Design Intern
-  from: 06/2022 
-  to: 08/2022
+  from: 02/2020 
+  to: 05/2020
   courses:
-    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
-    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
-    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
+    - "Helped develop the ground space of Pinghe Secondary School in Suzhou and drew the plans and perspective sections of the building to present to the clients"
+    - "Drew processing diagrams with AutoCAD; helped design external façades of Tongji University Creative Research Institute"
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
