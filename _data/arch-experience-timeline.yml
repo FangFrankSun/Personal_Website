@@ -3,13 +3,13 @@
   location: Washington D.C., USA
   country: USA
   role: Design Intern
-  from: 05/2022
-  to: 09/2022
+  from: 06/2022
+  to: 08/2022
   description: 3-month internship for project drawing, modeling assistance and self parametric design
   courses:
-    - "Helped benchmark projects of UVA Gilmer Hall and Chemistry Building Renovation, created further templates in Revit."
-    - "Helped design the loading dock and back entrance for Omega and Key West Buildings in Rockville and rendered images."
-    - "Self-designed parametric shelf for the DC office, proposed eight iterations using grasshopper and dynamo to generate forms."
+    - "Benchmarked UVA Gilmer Hall and Chemistry Building Renovation projects and created Revit templates"
+    - "Designed the loading dock and back entrance for Omega Building & Key West Building in Rockville and rendered images with Photoshop and Enscape"
+    - "Proposed 8 logo-inspired iterations of parametric shelf for Perkins&Will DC office with Rhino, Grasshopper, and Dynamo"
   tools: [Rhinoceros, Revit, Dynamo, Grasshopper, AutoCAD, Enscape, Photoshop, Illustrator, Indesign]
   
 - entity: "HDR Inc."
