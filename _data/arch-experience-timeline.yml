@@ -55,19 +55,19 @@
     - "Digitalized the hand drawings of sections and plans of a 2011 project (China International Practical Exhibition of Architecture No.4 House) with AutoCAD"
   tools: [ArcGIS, Rhinoceros, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator]
 
-- entity: "MAD Architects"
-  link : http://www.i-mad.com
-  location: Beijing, China
-  country: China
-  role: "Design Intern"
-  from: 07/2020
-  to: 12/2020
-  # description: 6-month assistant for modeling, drawing and web-developing.
-  courses:
-    - "Helped develop the circulation plan & created sections and rendered images for 2 floors of Jiaxing Civic Center"
-    - "Produced rendered drawings of the public courtyard and urban context and proposed 3 iterations for Pingtan Art Museum"
-    - "Improved the UI design of the firm’s website (http://www.i-mad.com)"
-  tools: [Rhinoceros, Grasshopper, AutoCAD, Lumion, Photoshop, Html, CSS, JavaScript, Python]
+# - entity: "MAD Architects"
+#   link : http://www.i-mad.com
+#   location: Beijing, China
+#   country: China
+#   role: "Design Intern"
+#   from: 07/2020
+#   to: 12/2020
+#   # description: 6-month assistant for modeling, drawing and web-developing.
+#   courses:
+#     - "Helped develop the circulation plan & created sections and rendered images for 2 floors of Jiaxing Civic Center"
+#     - "Produced rendered drawings of the public courtyard and urban context and proposed 3 iterations for Pingtan Art Museum"
+#     - "Improved the UI design of the firm’s website (http://www.i-mad.com)"
+#   tools: [Rhinoceros, Grasshopper, AutoCAD, Lumion, Photoshop, Html, CSS, JavaScript, Python]
 
 # - entity: "Roboticplus.AI"
 #   link : https://www.roboticplus.com
