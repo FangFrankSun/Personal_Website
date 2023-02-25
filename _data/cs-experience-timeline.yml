@@ -1,11 +1,11 @@
 - entity: "Alibaba Group Holding Limited"
   link : https://www.alibabagroup.com/en-US/
-  location: Hangzhou, Zhejiang, China
+  location: Hangzhou (Zhejiang), China
   country: China
   role: "Java Developer Intern"
   from: 06/2021
   to: 09/2021
-  description: 3-months Java intern for IoT Business in Alibaba.
+  # description: 3-months Java intern for IoT Business in Alibaba.
   courses:
     - "Co-established the online Internet of Things (IoT) system for Xi’niu’s On-demand Production Factory"
     - "Co-developed an automated customer management system for Xi’niu Factory to improve efficiency"
@@ -19,7 +19,7 @@
   role: "Lark Frontend Intern"
   from: 03/2021
   to: 06/2021
-  description: 3-month frontend intern for SaaS projects.
+  # description: 3-month frontend intern for SaaS projects.
   courses:
     - "Provided debug and customization services for users of Lark Open Platform (workplace apps developer)"
     - "Fixed Lark interface compatibility issues and reviewed a part of Lark 4.0 updates before it went online"
@@ -34,7 +34,7 @@
   role: "System Test Design Lead"
   from: 10/2017
   to: 03/2018
-  description: 6-month test lead for apple API testing, database testing.
+  # description: 6-month test lead for apple API testing, database testing.
   courses:
     - "Debugged 20 issues in macOS 10.14, including 3 severe security alerts with privacy and message missing"
     - "Collected and provided feedback on the user experience of the iOS 11 Application Program Interface"
