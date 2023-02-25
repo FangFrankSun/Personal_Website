@@ -11,6 +11,7 @@
     - "Created 6 Grasshopper script tests to present the proof of concept of automatic plan generator and parking space formation"
   tools: [Rhinoceros, Dynamo, Grasshopper, AutoCAD, Illustrator, C++, C#, Python]
 
+
 - entity: "Perkins&Will"
   link : https://perkinswill.com
   location: Washington D.C., USA
