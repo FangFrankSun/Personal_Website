@@ -5,7 +5,7 @@
   role: "Project Initiator/Leader"
   from: Oct 2016
   to: Mar 2018
-  description: 6-month project leader in designing new parking system in Shanghai.
+  # description: 6-month project leader in designing new parking system in Shanghai.
   courses:
     - "Led a team of 8 to identify the causes of parking problems in Shanghai"
     - "Crafted a smart parking plan and visualized the parking space design with Rhino and BIM"
@@ -22,7 +22,7 @@
   role: "Founder & CEO"
   from: Apr 2019
   to: present
-  description: company owner for chess tutoring and youtuber.
+  # description: company owner for chess tutoring and youtuber.
   courses:
     - "Expanded the company’s target customers from children to chess lovers of all ages"
     - "Produced and published 270+ tutorial videos on YouTube, TikTok, and Bilibili (more than 300,000 subscribers in total)"
