@@ -79,3 +79,16 @@
     - "Programmed robotic arm movements for intelligent construction and assisted in developing CNC routers with C++ and Java"
     - "Designed outdoor installations for the Jindi Office Building project and formulated models for 3D printing"
   tools: [Rhinoceros, Grasshopper, Indesign, C++, C#, Java, Python, MATLAB, Pascal, Lisp]
+
+  - entity: "Tongji Architectural Design Group"
+  link : https://www.tjad.cn/
+  location: Shanghai, China
+  country: China
+  role: "Design Intern"
+  from: 02/2020
+  to: 05/2020
+  # description: 3-month project assistant for two robotic projects.
+  courses:
+    - "Helped develop the ground space of Pinghe Secondary School in Suzhou and drew the plans and perspective sections of the building to present to the clients"
+    - "Drew processing diagrams with AutoCAD; helped design external façades of Tongji University Creative Research Institute"
+  tools: [Rhinoceros, SketchUp, AutoCAD, Photoshop, Illustrator, Java]
