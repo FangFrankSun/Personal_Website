@@ -1,4 +1,4 @@
-@charset "UTF-8";
+/* @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Poppins");
 .cls-1 {
   fill: #ffc541;
@@ -1538,5 +1538,9 @@ canvas {
   width: 100%;
   height: 100%;
 }
+
+ */
+
+
 
 @import "portfolYOU";
