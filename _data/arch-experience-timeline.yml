@@ -55,7 +55,7 @@
   tools: [ArcGIS, Rhinoceros, Grasshopper, AutoCAD, Enscape, Lumion, Photoshop, Illustrator]
 
 - entity: "MAD Architects"
-  link : https://www.hdrinc.com/
+  link : https://www.hdrinc.com
   location: Beijing, China
   country: China
   role: "Assistant Architect"
